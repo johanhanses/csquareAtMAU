@@ -1,0 +1,10 @@
+C:\Users\Johan Hanses\source\repos\PhoneManager\bin\Debug\PhoneManager.exe.config
+C:\Users\Johan Hanses\source\repos\PhoneManager\bin\Debug\PhoneManager.exe
+C:\Users\Johan Hanses\source\repos\PhoneManager\bin\Debug\PhoneManager.pdb
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.csprojAssemblyReference.cache
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.MainForm.resources
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.Properties.Resources.resources
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.csproj.GenerateResource.cache
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.csproj.CoreCompileInputs.cache
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.exe
+C:\Users\Johan Hanses\source\repos\PhoneManager\obj\Debug\PhoneManager.pdb

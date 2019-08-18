@@ -1,0 +1,7 @@
+C:\Users\Johan Hanses\source\repos\JoggingProgram\bin\Debug\JoggingProgram.exe.config
+C:\Users\Johan Hanses\source\repos\JoggingProgram\bin\Debug\JoggingProgram.exe
+C:\Users\Johan Hanses\source\repos\JoggingProgram\bin\Debug\JoggingProgram.pdb
+C:\Users\Johan Hanses\source\repos\JoggingProgram\obj\Debug\JoggingProgram.csprojAssemblyReference.cache
+C:\Users\Johan Hanses\source\repos\JoggingProgram\obj\Debug\JoggingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Johan Hanses\source\repos\JoggingProgram\obj\Debug\JoggingProgram.exe
+C:\Users\Johan Hanses\source\repos\JoggingProgram\obj\Debug\JoggingProgram.pdb
