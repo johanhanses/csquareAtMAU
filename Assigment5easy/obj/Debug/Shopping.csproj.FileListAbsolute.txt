@@ -1,0 +1,10 @@
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\Shopping.csprojAssemblyReference.cache
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\ShoppingListApp.MainForm.resources
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\Assigment5easy.Properties.Resources.resources
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\Shopping.csproj.GenerateResource.cache
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Johan Hanses\source\repos\Assigment5easy\bin\Debug\Assigment5easy.exe.config
+C:\Users\Johan Hanses\source\repos\Assigment5easy\bin\Debug\Assigment5easy.exe
+C:\Users\Johan Hanses\source\repos\Assigment5easy\bin\Debug\Assigment5easy.pdb
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\Assigment5easy.exe
+C:\Users\Johan Hanses\source\repos\Assigment5easy\obj\Debug\Assigment5easy.pdb
