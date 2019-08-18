@@ -1,0 +1,10 @@
+C:\Users\Johan Hanses\source\repos\Assignment3G\bin\Debug\Assignment3G.exe.config
+C:\Users\Johan Hanses\source\repos\Assignment3G\bin\Debug\Assignment3G.exe
+C:\Users\Johan Hanses\source\repos\Assignment3G\bin\Debug\Assignment3G.pdb
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\Assignment3G.MainForm.resources
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\Assignment3G.Properties.Resources.resources
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\Assignment3G.exe
+C:\Users\Johan Hanses\source\repos\Assignment3G\obj\Debug\Assignment3G.pdb

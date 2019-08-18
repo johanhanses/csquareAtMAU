@@ -1,0 +1,10 @@
+C:\Users\Johan Hanses\source\repos\Assignment4easy\bin\Debug\Assignment4easy.exe.config
+C:\Users\Johan Hanses\source\repos\Assignment4easy\bin\Debug\Assignment4easy.exe
+C:\Users\Johan Hanses\source\repos\Assignment4easy\bin\Debug\Assignment4easy.pdb
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.csprojAssemblyReference.cache
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.MainForm.resources
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.Properties.Resources.resources
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.csproj.GenerateResource.cache
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.csproj.CoreCompileInputs.cache
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.exe
+C:\Users\Johan Hanses\source\repos\Assignment4easy\obj\Debug\Assignment4easy.pdb
